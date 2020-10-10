@@ -1,1 +1,3 @@
-# tripCatalog
+# trip-catalog
+
+Trip catalog
