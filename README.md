@@ -1,3 +1,3 @@
 # trip-catalog
 
-Trip catalog
+Trip catalog application using C++
