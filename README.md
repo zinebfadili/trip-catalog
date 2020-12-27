@@ -1,3 +1,3 @@
 # trip-catalog
 
-Trip catalog application using C++
+C++ application to manage a trip catalog : find and display journeys
